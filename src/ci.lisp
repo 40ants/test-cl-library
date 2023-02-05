@@ -34,5 +34,7 @@
   :cache t
   :jobs ((run-tests
           :lisp ("sbcl-bin"
-                 "ccl-bin")
+                 ;; Issue https://github.com/roswell/roswell/issues/534
+                 ;; is still reproduces on 2023-02-06:
+                 "ccl-bin/1.12.0")
           :coverage t)))
