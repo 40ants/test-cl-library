@@ -1,8 +1,8 @@
 (defsystem "test-cl-lib"
   :author "Alexander Artemenko <svetlyak.40wt@gmail.com>"
   :license "BSD"
-  :source-control (:git "https://github.com/svetlyak40wt/test-cl-lib")
-  :bug-tracker "https://github.com/svetlyak40wt/test-cl-lib/issues"
+  :source-control (:git "https://github.com/40ants/test-cl-library")
+  :bug-tracker "https://github.com/40ants/test-cl-library/issues"
   :class :40ants-asdf-system
   :defsystem-depends-on ("40ants-asdf-system")
   :pathname "src"
