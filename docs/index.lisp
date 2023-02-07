@@ -39,7 +39,7 @@
                                    "GIT"))
   (test-cl-lib system)
   "
-[![](https://github-actions.40ants.com/svetlyak40wt/test-cl-lib/matrix.svg?only=ci.run-tests)](https://github.com/svetlyak40wt/test-cl-lib/actions)
+[![](https://github-actions.40ants.com/40ants/test-cl-library/matrix.svg?only=ci.run-tests)](https://github.com/40ants/test-cl-library/actions)
 
 ![Quicklisp](http://quickdocs.org/badge/test-cl-lib.svg)
 "
