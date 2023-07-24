@@ -6,8 +6,6 @@
 
 ## TEST-CL-LIB ASDF System Details
 
-* Version: 0.1.0
-
 * Licence: `BSD`
 
 * Author: Alexander Artemenko <svetlyak.40wt@gmail.com>
