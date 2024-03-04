@@ -7,11 +7,8 @@
 ## TEST-CL-LIB ASDF System Details
 
 * Licence: `BSD`
-
 * Author: Alexander Artemenko <svetlyak.40wt@gmail.com>
-
 * Bug tracker: [https://github.com/40ants/test-cl-library/issues][0fd8]
-
 * Source control: [GIT][dc13]
 
 [![](https://github-actions.40ants.com/40ants/test-cl-library/matrix.svg?only=ci.run-tests)][da0a]
